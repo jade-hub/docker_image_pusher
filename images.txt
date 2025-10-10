@@ -22,6 +22,12 @@ docker.getcollate.io/openmetadata/ingestion:1.8.3
 docker.elastic.co/elasticsearch/elasticsearch:8.11.4
 
 
+#openmetadata 1.10.0
+docker.getcollate.io/openmetadata/db:1.10.0
+docker.getcollate.io/openmetadata/server:1.10.0
+docker.getcollate.io/openmetadata/ingestion:1.10.0
+#docker.elastic.co/elasticsearch/elasticsearch:8.11.4
+
 #datahub
 acryldata/datahub-actions:head
 acryldata/datahub-frontend-react:head
