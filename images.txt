@@ -2,6 +2,9 @@
 #openmetadata 1.6.1
 #openmetadata 1.7.0
 
+#airflow
+apache/airflow:3.1.8
+
 #openmetadata 1.8.3
 docker.getcollate.io/openmetadata/db:1.8.3
 docker.getcollate.io/openmetadata/server:1.8.3
